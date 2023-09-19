@@ -15,6 +15,8 @@ public class web_driver {
 		WebDriver driver=new EdgeDriver();
 		//obj_name.get("address")
 		driver.get("https://www.rahulshettyacademy.com/AutomationPractice/");
+		System.out.println("Hello");
+	
 		
 
 	}
